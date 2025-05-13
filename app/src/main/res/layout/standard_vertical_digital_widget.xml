@@ -32,36 +32,17 @@
         tools:textColor="@android:color/white" />
 
     <TextClock
-        android:id="@+id/clockHours"
+        android:id="@+id/clock"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:includeFontPadding="false"
         android:ellipsize="none"
-        android:format12Hour="hh"
-        android:format24Hour="kk"
+        android:includeFontPadding="false"
         android:maxLines="1"
         android:shadowRadius="2.75"
         android:shadowColor="@android:color/black"
         android:shadowDx="2"
         android:shadowDy="2"
-        tools:text="01"
-        tools:textSize="70sp"
-        tools:textColor="@android:color/white" />
-
-    <TextClock
-        android:id="@+id/clockMinutes"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:includeFontPadding="false"
-        android:ellipsize="none"
-        android:format12Hour="mm"
-        android:format24Hour="mm"
-        android:maxLines="1"
-        android:shadowRadius="2.75"
-        android:shadowColor="@android:color/black"
-        android:shadowDx="2"
-        android:shadowDy="2"
-        tools:text="20"
+        tools:text="0123 AM"
         tools:textSize="70sp"
         tools:textColor="@android:color/white" />
 
