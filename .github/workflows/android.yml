@@ -22,6 +22,6 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew assembleRelease
 
-    - name: List files
+    - name: List application path
       run: |
-        ls -la ./
+        find . -name "*.apk" -o -name "*.aab"
