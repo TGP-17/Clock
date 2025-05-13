@@ -58,7 +58,7 @@
 
     <!-- WIDGET COLORS -->
     <color name="widget_background_color">#EEF0FF</color>
-    <color name="digital_widget_time_color">#475D92</color>
+    <color name="digital_widget_time_color">#A4E3A0</color>
     <color name="widget_text_color">#1D1B20</color>
     <color name="vertical_digital_widget_hour_color">#575E71</color>
     <color name="vertical_digital_widget_minute_color">#475D92</color>
