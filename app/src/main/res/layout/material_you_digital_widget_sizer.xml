@@ -62,7 +62,7 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="10dp"
+        android:layout_marginBottom="6dp"
         android:gravity="center">
 
         <!-- This view is drawn to a Bitmap and sent to the widget as an icon. -->
