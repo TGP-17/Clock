@@ -25,3 +25,10 @@ jobs:
     - name: List application path
       run: |
         find . -name "*.apk" -o -name "*.aab"
+    
+    - name: Upload APK
+      uses: actions/upload-artifact@v4
+      with:
+        name: Clock
+        path: $(find . -name "*.apk" -o -name "*.aab")
+        
