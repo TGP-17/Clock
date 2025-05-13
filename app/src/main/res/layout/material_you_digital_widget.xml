@@ -20,7 +20,7 @@
         android:id="@+id/date"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="10dp"
         android:ellipsize="none"
         android:includeFontPadding="false"
         android:maxLines="1"
@@ -32,7 +32,7 @@
         android:id="@+id/dateForCustomColor"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="10dp"
         android:ellipsize="none"
         android:includeFontPadding="false"
         android:maxLines="1"
@@ -63,7 +63,7 @@
         android:id="@+id/digitalWidgetBottomView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="6dp"
+        android:layout_marginBottom="10dp"
         android:gravity="center">
 
         <!-- Do not use the App tint attribute, otherwise the icon will not
