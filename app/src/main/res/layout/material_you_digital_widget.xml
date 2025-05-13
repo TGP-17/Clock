@@ -20,7 +20,7 @@
         android:id="@+id/date"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="6dp"
+        android:layout_marginTop="60dp"
         android:ellipsize="none"
         android:includeFontPadding="false"
         android:maxLines="1"
