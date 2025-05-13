@@ -63,7 +63,7 @@
         android:id="@+id/digitalWidgetBottomView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="10dp"
+        android:layout_marginBottom="6dp"
         android:gravity="center">
 
         <!-- Do not use the App tint attribute, otherwise the icon will not
